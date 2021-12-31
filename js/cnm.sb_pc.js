@@ -17,7 +17,7 @@ window.onload=function()
 	let divTyping = document.getElementById('etext')
 	let i = 0,
 		timer = 0,
-		str = '千里之行，始于足下。'
+		str = 'Github提供代码托管服务'
 	function typing()
 	{
 		if (i <= str.length)
